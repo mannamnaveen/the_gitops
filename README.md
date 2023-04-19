@@ -1,2 +1,3 @@
-# the_gitops
-# the_gitops
+# The GitOps
+
+This is from the gitops repo
